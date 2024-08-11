@@ -13,6 +13,7 @@
 -  [Recommendations](#recommendations)
 
 ### Business Case.
+---
 
 The quarterly General Sales meeting will be holding on Monday morning with all managers in attendance.  As the company's Data Analyst, create a report showing monthly revenue and orders by product category, by Country.
 
