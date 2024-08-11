@@ -78,12 +78,12 @@ A data model was created using Power Pivot to create a one-to-many relationship 
 
 ### Data Analysis Expression.
 
-Include some interesting DAX functions
-- `Total_Order'
+Include some interesting DAX functions to create two columns 
+- Column `Total_Order-
 -  DAX  <=DISTINCTCOUNT(Sales[Order_Number])>
 
 
- - `Total_Revenue'
+ - Column`Total_Revenue-
 -  DAX <=SUMX(Sales,[Quality]*RELATED(Products[Unit Price USD]))>
 
 
