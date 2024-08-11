@@ -16,7 +16,14 @@
 
 The quarterly General Sales meeting will be holding on Monday morning with all managers in attendance.  As the company's Data Analyst, create a report showing monthly revenue and orders by product category, by Country.
 
+[Dashboard.xlsx](https://github.com/user-attachments/files/16574062/Dashboard.xlsx)
+
+[Data Model](https://github.com/user-attachments/assets/50e20824-b88e-4fd2-996e-e50f5cb66ac5)
+
+[Pivot Tables.xlsx](https://github.com/user-attachments/files/16574077/Pivot.Tables.xlsx)
+
 ### Data Sources
+
 
 #### Data were scattered in the following sources: 
 
