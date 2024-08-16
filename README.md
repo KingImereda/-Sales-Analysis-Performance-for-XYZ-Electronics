@@ -127,7 +127,7 @@ Base on the analysis done, I am recommending the following actions.
 - Non availability of a go to personnel or data owners to ask questions regarding data provision and need
 
 ### References:
-1. Data Wrangling with SQL.
+1. Data Wrangling with SQL by [ Raghav Kandarpa & Shivangi Saxena]
 2. Gemini AI.
 
 
