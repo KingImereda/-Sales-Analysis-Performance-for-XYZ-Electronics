@@ -17,14 +17,15 @@
 
 The quarterly General Sales meeting will be holding on Monday morning with all managers in attendance.  As the company's Data Analyst, create a report showing monthly revenue and orders by product category, by Country.
 
-## Planned Project Execution.
+## Planned Solution.
 ---
-### Report Structure:
+### create a Business Report that captures the following Aggregations:
 - Total revenue per month.
 - Total orders per month.
 - Total revenue and Orders overall performance by year.
 - Total Revenue and Orders by product category: Performance breakdown for each product category.
 - Revenue and orders by country: Performance comparison across different countries.
+- % Change in yearly revenue.
 
 
 
