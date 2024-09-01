@@ -1,7 +1,7 @@
 # XYZ Electronics Revenue Report.
 
 ## Table of Contents.
-
+-  [Dashboard Link](#dashboard-link):![Dashboard.xlsx](https://github.com/user-attachments/files/16574062/Dashboard.xlsx)
 -  [Busines Case](#business-case)
 -  [Data Sources](#data-sources)
 -  [Tools Used](#tools-used)
@@ -29,11 +29,9 @@ The quarterly General Sales meeting will be holding on Monday morning with all m
 
 
 
-[Dashboard.xlsx](https://github.com/user-attachments/files/16574062/Dashboard.xlsx)
+![Dashboard.xlsx](https://github.com/user-attachments/files/16574062/Dashboard.xlsx)
 
-[Data Model](https://github.com/user-attachments/assets/50e20824-b88e-4fd2-996e-e50f5cb66ac5)
 
-[Pivot Tables.xlsx](https://github.com/user-attachments/files/16574077/Pivot.Tables.xlsx)
 
 ### Data Sources
 
@@ -84,9 +82,13 @@ EDA involve exploring the various data to answer the key questions, such as
 - Stores Table
 - Calendar Table (derived from sales table)
 
+![Pivot Tables.xlsx](https://github.com/user-attachments/files/16574077/Pivot.Tables.xlsx) 
+
 ### Data Modeling.
 
 A data model was created using Power Pivot to create a one-to-many relationship of the Fact table(sales) with the Dimension tables(Products, Stores, Calendar) for all Loaded Tables. The data model serving as a single source of truth for analysis.
+
+![Data Model](https://github.com/user-attachments/assets/50e20824-b88e-4fd2-996e-e50f5cb66ac5)
 
 ### Data Analysis Expression.
 
