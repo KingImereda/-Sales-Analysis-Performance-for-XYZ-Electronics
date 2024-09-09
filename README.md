@@ -28,16 +28,8 @@ The quarterly General Sales meeting will be holding on Monday morning with all m
 - % Change in yearly revenue.
 
 
-![image001](https://github.com/user-attachments/assets/da1f7683-52a4-48d6-bc88-2ffdc04f9632)
+![Screenshot 2024-09-09 131559](https://github.com/user-attachments/assets/faf8e005-d8f0-4d39-bef6-5cd9860aa3ba)
 
-
-![image002](https://github.com/user-attachments/assets/ca5629c6-23d5-46f2-87d4-a301ea2ae0a0)
-
-
-![image013](https://github.com/user-attachments/assets/5e4d85ec-3faf-486c-896c-d63682f7df0e)
-
-
-![image010](https://github.com/user-attachments/assets/ae9ed196-a0cd-4208-ae96-b87b852ed704)
 
 ### Data Sources
 
