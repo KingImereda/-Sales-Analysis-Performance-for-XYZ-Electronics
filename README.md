@@ -1,4 +1,4 @@
-# XYZ Electronics Revenue Report.
+# XYZ Electronics Sales & Revenue Report.
 
 ## Table of Contents.
 -  [Dashboard Link](#dashboard-link):![Dashboard.xlsx](https://github.com/user-attachments/files/16574062/Dashboard.xlsx)
